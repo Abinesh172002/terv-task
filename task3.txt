@@ -1,2 +1,0 @@
-hi task3
-from task3
